@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Michigan"
-  employer         : "Michigan State University"
+  employer         : "Michigan Natural Features Inventory - Michigan State University Extension"
   uri              : # URL
   email            : "rosscour@msu.edu" 
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
